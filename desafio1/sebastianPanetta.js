@@ -1,7 +1,7 @@
-const data = require('./data');
+let data = require('./data');
 
 // crear un array separando el listado por cada salto de linea
-let items = data.str.split("\n");
+let items = data.split("\n");
 
 console.log("Items: ");
 console.log(items);
