@@ -21,4 +21,4 @@ const str = `<ul>
   <li data-time="3:31">Flexbox Video</li>
 </ul>`;
 
-module.exports = str;
+exports.str = str;
