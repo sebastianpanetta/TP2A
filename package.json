@@ -18,6 +18,9 @@
   "homepage": "https://github.com/ORT-PabloFernandez/TP2A#readme",
   "dependencies": {
     "chalk": "^4.0.0",
+    "mongo": "^0.1.0",
+    "mongojs": "^3.1.0",
+    "mongoose": "^5.9.13",
     "validator": "^13.0.0"
   }
 }
